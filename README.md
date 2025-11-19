@@ -56,6 +56,9 @@ xlabel('Time (s)');
 ylabel('Amplitude');
 title('Demodulated Signal');
 ```
+### TABULATION
+![WhatsApp Image 2025-11-19 at 12 37 03_1141a8ac](https://github.com/user-attachments/assets/171ce611-9058-4f0e-87dd-b56a150a7043)
+
 
 ## OUTPUT
 <img width="762" height="716" alt="image" src="https://github.com/user-attachments/assets/9ebf79f2-2602-4d0d-9155-05ad36ff2b39" />
